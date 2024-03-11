@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+// Current Frequency of an array...
 int FrequencyArr(int arr[], int len){
     //it will point false to all elemets in arr
     vector<bool>visited(len, false);
